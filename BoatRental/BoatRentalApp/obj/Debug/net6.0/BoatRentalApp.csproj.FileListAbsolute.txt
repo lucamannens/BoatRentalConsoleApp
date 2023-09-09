@@ -1,0 +1,15 @@
+D:\Zomervakantie Programmeren\C#\BoatRental\BoatRentalApp\bin\Debug\net6.0\BoatRentalApp.exe
+D:\Zomervakantie Programmeren\C#\BoatRental\BoatRentalApp\bin\Debug\net6.0\BoatRentalApp.deps.json
+D:\Zomervakantie Programmeren\C#\BoatRental\BoatRentalApp\bin\Debug\net6.0\BoatRentalApp.runtimeconfig.json
+D:\Zomervakantie Programmeren\C#\BoatRental\BoatRentalApp\bin\Debug\net6.0\BoatRentalApp.dll
+D:\Zomervakantie Programmeren\C#\BoatRental\BoatRentalApp\bin\Debug\net6.0\BoatRentalApp.pdb
+D:\Zomervakantie Programmeren\C#\BoatRental\BoatRentalApp\obj\Debug\net6.0\BoatRentalApp.csproj.AssemblyReference.cache
+D:\Zomervakantie Programmeren\C#\BoatRental\BoatRentalApp\obj\Debug\net6.0\BoatRentalApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zomervakantie Programmeren\C#\BoatRental\BoatRentalApp\obj\Debug\net6.0\BoatRentalApp.AssemblyInfoInputs.cache
+D:\Zomervakantie Programmeren\C#\BoatRental\BoatRentalApp\obj\Debug\net6.0\BoatRentalApp.AssemblyInfo.cs
+D:\Zomervakantie Programmeren\C#\BoatRental\BoatRentalApp\obj\Debug\net6.0\BoatRentalApp.csproj.CoreCompileInputs.cache
+D:\Zomervakantie Programmeren\C#\BoatRental\BoatRentalApp\obj\Debug\net6.0\BoatRentalApp.dll
+D:\Zomervakantie Programmeren\C#\BoatRental\BoatRentalApp\obj\Debug\net6.0\refint\BoatRentalApp.dll
+D:\Zomervakantie Programmeren\C#\BoatRental\BoatRentalApp\obj\Debug\net6.0\BoatRentalApp.pdb
+D:\Zomervakantie Programmeren\C#\BoatRental\BoatRentalApp\obj\Debug\net6.0\BoatRentalApp.genruntimeconfig.cache
+D:\Zomervakantie Programmeren\C#\BoatRental\BoatRentalApp\obj\Debug\net6.0\ref\BoatRentalApp.dll
