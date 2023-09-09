@@ -7,5 +7,7 @@ Key Features:
 - Make reservations for your selected boat, complete with availability checks.
 - Manage transactions and keep track of your rental history.
 - Choose your preferred currency for pricing calculations.
-  
+
+
+
 This Boat Rental Console Application is a fun and educational project designed for practicing programming skills. Dive into the code, explore how it works, and maybe even enhance it with your own features. Happy boating and happy coding!
